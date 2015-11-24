@@ -2,7 +2,7 @@ package übung4;
 
 public enum CrypterVerfahren {
 	
-	CEASAR,NULL,SUBSTITUTION,XOR;
+	CAESAR,NULL,SUBSTITUTION,XOR;
 	
 
 
